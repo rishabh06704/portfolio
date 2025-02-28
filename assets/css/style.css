@@ -1,0 +1,5 @@
+/*  Font Size for Project Descriptions */
+.project-description {
+    font-size: 1.1em;  /* Increase to 110% of the default size */
+    line-height: 1.6;  /* Improve readability */
+}
