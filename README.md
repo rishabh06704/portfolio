@@ -32,8 +32,3 @@
 [Explore the Project](https://rishabh06704.github.io/Money-Exchange-System-Design/)|[Github Repository](https://github.com/rishabh06704/Money-Exchange-System-Design)
 
 
-
-
-# Education
-
-# Work Experience
