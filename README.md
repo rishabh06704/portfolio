@@ -23,11 +23,11 @@
 
 
 ### Money Exchange System (MEXS) – System Design  
-- Engineered a **multi-layered financial transaction system** with **RBAC (Role-Based Access Control)**, ensuring secure user authentication for **Admins, Managers, and Exchange Agents**.  
-- Developed **UML diagrams** (Use Case, Class, Sequence, and Design Class) to define **system workflows, entity relationships, and transactional processes**.  
-- Modeled a **normalized relational database (3NF)** with **referential integrity, indexed queries, and ACID-compliant transactions** for optimized data consistency.
-- Integrated OFAC (Office of Foreign Assets Control) screening, KYC (Know Your Customer) verification, and transaction auditing for security and compliance.
-- Applied **object-oriented design patterns** (**Encapsulation, Inheritance, Polymorphism**) to ensure **scalability, maintainability, and modular architecture**.  
+- Designed a scalable **financial transaction system** architecture for secure and compliant currency exchanges at international airports.  
+- Developed UML diagrams (Use Case, Class, Sequence, and Design Class) to define **system workflows**, and object relationships.
+- Modeled a **normalized relational database (3NF)** ensuring referential integrity, transaction logging, and regulatory compliance.
+- Integrated OFAC (Office of Foreign Assets Control) screening, **KYC** verification, and transaction auditing for security and compliance.
+- Applied object-oriented design patterns (**Encapsulation, Inheritance, Polymorphism**) to ensure **scalability** , **maintainability**, and modular architecture.  
 
 [Explore the Project](https://rishabh06704.github.io/Money-Exchange-System-Design/)|[Github Repository](https://github.com/rishabh06704/Money-Exchange-System-Design)
 
