@@ -7,7 +7,7 @@
 - Ensured cross-browser compatibility with **media queries** and **responsive breakpoints**.  
 - Deployed the website on **GitHub Pages**, leveraging **Git version control** for continuous integration and streamlined updates.  
 
-[Explore the Project Website](https://rishabh06704.github.io/Hotel-Reservation-Website-Design/) | [Github Repository](https://github.com/rishabh06704/Hotel-Reservation-Website-Design)
+[Explore the Project Website](https://rishabh06704.github.io/Hotel-Reservation-Website-Design/)|[Github Repository](https://github.com/rishabh06704/Hotel-Reservation-Website-Design)
 
 
 
@@ -18,19 +18,18 @@
 - Utilized advanced **SQL queries** for data exploration, including demographic distribution and missing values analysis.  
 - Developed a tailored **ER model** specific to the dataset using **Vertabelo**.  
 
-[Explore the Project](https://rishabh06704.github.io/clinical-patient-database-project/) | [Github Repository](https://github.com/rishabh06704/clinical-patient-database-project)
+[Explore the Project](https://rishabh06704.github.io/clinical-patient-database-project/)|[Github Repository](https://github.com/rishabh06704/clinical-patient-database-project)
 
 
 
 ### Money Exchange System (MEXS) – System Design  
 - Engineered a **multi-layered financial transaction system** with **RBAC (Role-Based Access Control)**, ensuring secure user authentication for **Admins, Managers, and Exchange Agents**.  
 - Developed **UML diagrams** (Use Case, Class, Sequence, and Design Class) to define **system workflows, entity relationships, and transactional processes**.  
-- Modeled a **normalized relational database (3NF)** with **referential integrity, indexed queries, and ACID-compliant transactions** for optimized data consistency.  
-- Integrated **regulatory compliance mechanisms**, including **OFAC (Office of Foreign Assets Control) screening, KYC (Know Your Customer) verification, and financial auditing**.  
+- Modeled a **normalized relational database (3NF)** with **referential integrity, indexed queries, and ACID-compliant transactions** for optimized data consistency.
+- Integrated OFAC (Office of Foreign Assets Control) screening, KYC (Know Your Customer) verification, and transaction auditing for security and compliance.
 - Applied **object-oriented design patterns** (**Encapsulation, Inheritance, Polymorphism**) to ensure **scalability, maintainability, and modular architecture**.  
-- Implemented a **historical exchange rate tracking system** with an **ExchangeRateArchive** for real-time analytics and financial reporting.  
 
-[Explore the Project](https://rishabh06704.github.io/Money-Exchange-System-Design/) | [Github Repository](https://github.com/rishabh06704/Money-Exchange-System-Design)
+[Explore the Project](https://rishabh06704.github.io/Money-Exchange-System-Design/)|[Github Repository](https://github.com/rishabh06704/Money-Exchange-System-Design)
 
 
 
