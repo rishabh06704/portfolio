@@ -1,6 +1,6 @@
 # Portfolio
 
-### Responsive Hotel Reservation Website  
+### Responsive Hotel Reservation Website  (May 2023)
 - Developed a multi-page hotel reservation website using **HTML5, CSS3, and Vanilla JavaScript**.  
 - Implemented dynamic navigation and an **interactive image carousel** using **DOM manipulation** and **Event Listeners**.  
 - Utilized modern **CSS Flexbox and Grid Layouts** for adaptive and consistent UI across various screen sizes.  
@@ -12,7 +12,7 @@
 
 
 
-### Clinical Patient Database - Exploratory Analysis and Normalization  
+### Clinical Patient Database - Exploratory Analysis and Normalization (Sep 2023)
 - Conducted **exploratory data analysis** to understand demographic distributions and data patterns.  
 - Designed a **normalized relational database** achieving **Third Normal Form (3NF)** for data integrity and consistency.  
 - Utilized advanced **SQL queries** for data exploration, including demographic distribution and missing values analysis.  
@@ -22,7 +22,7 @@
 
 
 
-### Money Exchange System (MEXS) – System Design  
+### Money Exchange System (MEXS) – System Design  (Apr 2024)
 - Designed a scalable **financial transaction system** architecture for secure and compliant currency exchanges at international airports.  
 - Developed UML diagrams (Use Case, Class, Sequence, and Design Class) to define **system workflows**, and object relationships.
 - Modeled a **normalized relational database (3NF)** ensuring referential integrity, transaction logging, and regulatory compliance.
