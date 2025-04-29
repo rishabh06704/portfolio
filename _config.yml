@@ -1,5 +1,5 @@
 title: Rishabh Pandey
-logo: /assets/images/profilepic.jpg
+logo: <img src="/assets/images/profilepic.jpg" alt="Profile" style="border-radius:50%; width:120px; height:120px; margin-top:-20px;">
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
