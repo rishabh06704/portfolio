@@ -21,6 +21,14 @@
 [Explore the Project](https://rishabh06704.github.io/clinical-patient-database-project/)|[Github Repository](https://github.com/rishabh06704/clinical-patient-database-project)
 
 
+### Vaccine Distribution & Management System (VDMS) – Requirements Engineering Project (Dec 2023)
+- Developed formal requirements engineering artifacts for a conceptual vaccine logistics system as part of a graduate course in Requirements Engineering & Management.
+- Authored an Operational Concept (OpsCon) and a comprehensive System Requirements Specification (SRS) aligned with ISO/IEC/IEEE 29148:2011 standards.
+- Defined stakeholder needs and documented over 20 functional, performance, and usability requirements for modules including Inventory Management, Logistics, Financial Accounting, and Analytics.
+- Mapped system behavior across various operational modes (normal, emergency, maintenance), focusing on regulatory compliance (21 CFR 205.50, EU GDP) and cold chain integrity.
+- Collaborated in a two-member team, emphasizing traceability, role-based access control, and system compliance considerations.
+
+[Explore the Project](https://rishabh06704.github.io/vdms-requirements-engineering/)|[Github Repository](https://github.com/rishabh06704/vdms-requirements-engineering/)
 
 ### Money Exchange System (MEXS) – System Design  (Apr 2024)
 - Designed a scalable **financial transaction system** architecture for secure and compliant currency exchanges at international airports.  
